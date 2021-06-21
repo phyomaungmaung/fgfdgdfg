@@ -6,3 +6,7 @@ body{
 .navbar{
     padding: 15px;
 }
+
+tt{
+	padding: 20px;
+}
